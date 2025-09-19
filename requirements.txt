@@ -1,0 +1,11 @@
+gradio
+torch
+spacy
+nltk
+safetensors
+pandas
+langdetect
+transformers
+reportlab
+openai
+pytz
